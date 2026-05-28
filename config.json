@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervecrypt",
+        "uuid": 33150528,
+        "checksum": "vmw93n"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
